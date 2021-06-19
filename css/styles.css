@@ -63,3 +63,54 @@ body {
 .header-tel:focus {
   color: var(--accent-color);
 }
+/*=======END HEADER=========*/
+/*=======HERO=========*/
+.title-hero {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #c4c4c4;
+}
+.modal-btn {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.87;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  cursor: pointer;
+  background-color: var(--accent-color);
+}
+
+.modal-btn:hover,
+.modal-btn:focus {
+  background-color: #188ce8;
+}
+/*=======END HERO=========*/
+
+/*=======FEATURES=========*/
+.features-subtitle {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.features-content {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+/*=======END FEATURES=========*/
+
+/*=======WHAT ARE WE DOING=========*/
+.activity-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.67;
+  letter-spacing: 0.03em;
+}
+/*=======END WHAT ARE WE DOING=========*/
